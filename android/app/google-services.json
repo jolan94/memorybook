@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "442984743193",
+    "project_id": "memory-book-c1f7d",
+    "storage_bucket": "memory-book-c1f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442984743193:android:ade61ed7a64fe428b10588",
+        "android_client_info": {
+          "package_name": "com.appfactory.memorybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442984743193-ummbl9cp9nj45r9higntk65ektbosvnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5hvnNARrieIvc4sR1KvvKm8GM0Ylr-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442984743193-n4cre1pcil4upfp955fnromggonqufdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442984743193-2g5scc2lh87r0kils1d1mg080h6u4bvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appfactory.memorybook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
